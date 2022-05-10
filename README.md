@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luamunizc
 - 👀 I’m interested in learning how to code and maybe make a career out of it
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, html, css and javascript
 
 <!---
 - 💞️ I’m looking to collaborate on ...
