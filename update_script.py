@@ -22,27 +22,31 @@ def get_ra_data():
                 lines.append(f"- **{title}** ({console}) - {achieved}/{possible} conquistas\n")
             return "".join(lines)
     except Exception as e:
-        print(f"Erro: {e}")
+        print(f"Erro na API: {e}")
     return ""
 
 def update_readme(new_content):
+    start_tag = ""
+    end_tag = ""
+    
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    start_marker = ""
-    end_marker = ""
-    
-    if start_marker not in content or end_marker not in content:
-        print("ERRO: As tags não foram encontradas no README!")
+    if start_tag not in content or end_tag not in content:
+        print("ERRO: Tags não encontradas no README.md!")
         return
 
-    parts_before = content.split(start_marker)
-    parts_after = parts_before[1].split(end_marker)
-    
-    final_content = parts_before[0] + start_marker + new_content + end_marker + parts_after[1]
-    
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(final_content)
+    try:
+        before_part = content.split(start_tag)[0]
+        after_part = content.split(end_tag)[1]
+        
+        final_readme = f"{before_part}{start_tag}{new_content}{end_tag}{after_part}"
+        
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write(final_readme)
+        print("README atualizado com sucesso no local correto!")
+    except Exception as e:
+        print(f"Erro ao processar strings: {e}")
 
 if __name__ == "__main__":
     stats = get_ra_data()
