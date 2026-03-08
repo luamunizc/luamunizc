@@ -31,11 +31,3 @@ Desenvolvedora focada em criar soluções que unem software e hardware. Atualmen
 
 ### Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/luyaram/) - [RetroAchievements Profile](https://retroachievements.org/user/luamunizc)
-
----
-
----
-### 🎮 Gaming & RetroAchievements
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luamunizc&show_icons=true&theme=dracula" />
-</p>
