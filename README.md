@@ -1,4 +1,4 @@
-# Olá, eu sou a Luyara Muniz (Lua) 👋
+# Olá, eu sou a Luyara Muniz (Lua)
 
 Desenvolvedora focada em criar soluções que unem software e hardware. Atualmente, exploro o ecossistema **Flutter** para mobile e **Python** para automação, robótica e integração de sistemas.
 
@@ -32,7 +32,7 @@ Desenvolvedora focada em criar soluções que unem software e hardware. Atualmen
 - Aprofundando em **Clean Architecture (Clean Dart)** e gerenciamento de estado com **MobX**.
 - Estudando **ROS2** para comunicação entre sistemas robóticos.
 
-### 📫 Vamos nos conectar?
+### Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/luyaram/)
 - [RetroAchievements Profile](https://retroachievements.org/user/luamunizc)
 
