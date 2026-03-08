@@ -31,3 +31,8 @@ Desenvolvedora focada em criar soluções que unem software e hardware. Atualmen
 
 ### Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/luyaram/) - [RetroAchievements Profile](https://retroachievements.org/user/luamunizc)
+
+---
+
+<!--START_SECTION:ra-->
+<!--END_SECTION:ra-->
