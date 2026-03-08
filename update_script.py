@@ -26,8 +26,8 @@ def get_ra_data():
     return ""
 
 def update_readme(new_content):
-    start_tag = ""
-    end_tag = ""
+    start_tag = "<!--START_SECTION:ra-->"
+    end_tag = "<!--END_SECTION:ra-->"
     
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
