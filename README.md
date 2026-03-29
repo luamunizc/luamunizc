@@ -55,6 +55,7 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **Pokémon Ruby Version** (Game Boy Advance) - 46/49 conquistas
 - **Pokémon Emerald Version [Subset - Professor Oak Challenge]** (Game Boy Advance) - 64/221 conquistas
 - **Road Rash** (PlayStation) - 0/46 conquistas
 - **Super Mario All-Stars** (SNES/Super Famicom) - 0/111 conquistas
@@ -64,5 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **~Homebrew~ Snake** (Atari 2600) - 0/6 conquistas
 - **~Hack~ Final Fantasy ++** (NES/Famicom) - 0/26 conquistas
 - **Fatal Fury F-Contact** (Neo Geo Pocket) - 1/45 conquistas
-- **~Homebrew~ Cave Story** (PlayStation Portable) - 8/183 conquistas
 <!--END_SECTION:ra-->
