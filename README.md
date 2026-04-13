@@ -55,6 +55,7 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **~Hack~ Pokémon Emerald Version: Party Randomizer** (Game Boy Advance) - 4/23 conquistas
 - **Pokémon Emerald Version [Subset - Professor Oak Challenge]** (Game Boy Advance) - 113/221 conquistas
 - **Pokémon Emerald Version** (Game Boy Advance) - 72/197 conquistas
 - **Pokémon FireRed Version** (Game Boy Advance) - 61/61 conquistas
@@ -64,5 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **Super Mario All-Stars** (SNES/Super Famicom) - 0/111 conquistas
 - **~Hack~ Pokémon Regulation Red | Regulation Blue** (Game Boy) - 14/252 conquistas
 - **~Hack~ Pokémon PureRGB** (Game Boy) - 13/77 conquistas
-- **~Homebrew~ Snake** (Atari 2600) - 0/6 conquistas
 <!--END_SECTION:ra-->
