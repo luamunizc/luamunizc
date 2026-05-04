@@ -55,6 +55,7 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **~Hack~ Letty9 | (9)** (NES/Famicom) - 4/8 conquistas
 - **~Hack~ Kanto Expansion Pak** (Game Boy) - 0/100 conquistas
 - **Super Mario World** (SNES/Super Famicom) - 3/89 conquistas
 - **Wordtris** (SNES/Super Famicom) - 0/0 conquistas
@@ -64,5 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **Pokémon Emerald Version** (Game Boy Advance) - 72/197 conquistas
 - **Pokémon FireRed Version** (Game Boy Advance) - 61/61 conquistas
 - **~Hack~ Shin Pokémon Red, Blue, and Green** (Game Boy) - 0/60 conquistas
-- **Pokémon Ruby Version** (Game Boy Advance) - 46/49 conquistas
 <!--END_SECTION:ra-->
