@@ -55,8 +55,8 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
-- **~Hack~ Letty9 | (9)** (NES/Famicom) - 4/8 conquistas
 - **~Hack~ Kanto Expansion Pak** (Game Boy) - 0/100 conquistas
+- **~Hack~ Letty9 | (9)** (NES/Famicom) - 4/8 conquistas
 - **Super Mario World** (SNES/Super Famicom) - 3/89 conquistas
 - **Wordtris** (SNES/Super Famicom) - 0/0 conquistas
 - **Super Mario Bros.** (NES/Famicom) - 11/77 conquistas
