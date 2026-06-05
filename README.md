@@ -56,7 +56,7 @@ Universidade Federal de Pernambuco — UFPE
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
 - **Dragon Quest III** (Game Boy Color) - 0/138 conquistas
-- **Pokémon Emerald Version [Subset - Professor Oak Challenge]** (Game Boy Advance) - 141/221 conquistas
+- **Pokémon Emerald Version [Subset - Professor Oak Challenge]** (Game Boy Advance) - 142/221 conquistas
 - **Pokémon Emerald Version** (Game Boy Advance) - 75/197 conquistas
 - **~Hack~ Kanto Expansion Pak** (Game Boy) - 0/100 conquistas
 - **~Hack~ Letty9 | (9)** (NES/Famicom) - 4/8 conquistas
