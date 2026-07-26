@@ -55,6 +55,7 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
 - **~Hack~ Pokémon Regulation Red | Regulation Blue** (Game Boy) - 14/252 conquistas
 - **Pokémon White Version 2** (Nintendo DS) - 5/151 conquistas
 - **Pokémon Emerald Version [Subset - Professor Oak Challenge]** (Game Boy Advance) - 142/221 conquistas
@@ -64,5 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **Star Ocean: Blue Sphere** (Game Boy Color) - 0/110 conquistas
 - **Dragon Quest III** (Game Boy Color) - 0/138 conquistas
 - **~Hack~ Kanto Expansion Pak** (Game Boy) - 0/100 conquistas
-- **~Hack~ Letty9 | (9)** (NES/Famicom) - 4/8 conquistas
 <!--END_SECTION:ra-->
