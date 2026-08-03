@@ -55,6 +55,8 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **~Homebrew~ Minesweeper** (Master System) - 2/9 conquistas
+- **~Homebrew~ Desert Bus** (Game Boy) - 0/6 conquistas
 - **Sudoku (Tectoy)** (Master System) - 0/20 conquistas
 - **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
 - **~Homebrew~ Crypt Sweeper** (Game Boy Advance) - 0/32 conquistas
@@ -63,6 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **Pokémon Emerald Version [Subset - Professor Oak Challenge]** (Game Boy Advance) - 142/221 conquistas
 - **Pokémon Emerald Version** (Game Boy Advance) - 76/197 conquistas
 - **Metroid: Zero Mission** (Game Boy Advance) - 25/55 conquistas
-- **Alex Kidd in Miracle World** (Master System) - 0/124 conquistas
-- **Star Ocean: Blue Sphere** (Game Boy Color) - 0/110 conquistas
 <!--END_SECTION:ra-->
