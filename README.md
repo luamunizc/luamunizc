@@ -55,7 +55,7 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
-- **~Homebrew~ Minesweeper** (Master System) - 2/9 conquistas
+- **~Homebrew~ Minesweeper** (Master System) - 9/9 conquistas
 - **~Homebrew~ Desert Bus** (Game Boy) - 0/6 conquistas
 - **Sudoku (Tectoy)** (Master System) - 0/20 conquistas
 - **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
