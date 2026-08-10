@@ -55,6 +55,9 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **Tetris** (PlayStation Portable) - 5/36 conquistas
+- **Grand Theft Auto: Chinatown Wars** (PlayStation Portable) - 0/105 conquistas
+- **Princess Tomato in the Salad Kingdom** (NES/Famicom) - 18/52 conquistas
 - **~Homebrew~ Minesweeper** (Master System) - 9/9 conquistas
 - **~Homebrew~ Desert Bus** (Game Boy) - 0/6 conquistas
 - **Sudoku (Tectoy)** (Master System) - 0/20 conquistas
@@ -62,7 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **~Homebrew~ Crypt Sweeper** (Game Boy Advance) - 0/32 conquistas
 - **~Hack~ Pokémon Regulation Red | Regulation Blue** (Game Boy) - 14/252 conquistas
 - **Pokémon White Version 2** (Nintendo DS) - 5/151 conquistas
-- **Pokémon Emerald Version [Subset - Professor Oak Challenge]** (Game Boy Advance) - 142/221 conquistas
-- **Pokémon Emerald Version** (Game Boy Advance) - 76/197 conquistas
-- **Metroid: Zero Mission** (Game Boy Advance) - 25/55 conquistas
 <!--END_SECTION:ra-->
