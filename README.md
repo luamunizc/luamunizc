@@ -55,6 +55,9 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **Paper Mario** (Nintendo 64) - 0/87 conquistas
+- **~Homebrew~ 2048** (NES/Famicom) - 11/12 conquistas
+- **~Homebrew~ Cave Story** (PlayStation Portable) - 8/183 conquistas
 - **Tetris** (PlayStation Portable) - 5/36 conquistas
 - **Grand Theft Auto: Chinatown Wars** (PlayStation Portable) - 0/105 conquistas
 - **Princess Tomato in the Salad Kingdom** (NES/Famicom) - 18/52 conquistas
@@ -62,7 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **~Homebrew~ Desert Bus** (Game Boy) - 0/6 conquistas
 - **Sudoku (Tectoy)** (Master System) - 0/20 conquistas
 - **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
-- **~Homebrew~ Crypt Sweeper** (Game Boy Advance) - 0/32 conquistas
-- **~Hack~ Pokémon Regulation Red | Regulation Blue** (Game Boy) - 14/252 conquistas
-- **Pokémon White Version 2** (Nintendo DS) - 5/151 conquistas
 <!--END_SECTION:ra-->
