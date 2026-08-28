@@ -55,6 +55,8 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **~Homebrew~ Masturbrowse SX** (Game Boy Color) - 10/25 conquistas
+- **Dr. Robotnik's Mean Bean Machine** (Genesis/Mega Drive) - 3/34 conquistas
 - **Paper Mario** (Nintendo 64) - 0/87 conquistas
 - **~Homebrew~ 2048** (NES/Famicom) - 11/12 conquistas
 - **~Homebrew~ Cave Story** (PlayStation Portable) - 8/183 conquistas
@@ -63,6 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **Princess Tomato in the Salad Kingdom** (NES/Famicom) - 18/52 conquistas
 - **~Homebrew~ Minesweeper** (Master System) - 9/9 conquistas
 - **~Homebrew~ Desert Bus** (Game Boy) - 0/6 conquistas
-- **Sudoku (Tectoy)** (Master System) - 0/20 conquistas
-- **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
 <!--END_SECTION:ra-->
