@@ -55,6 +55,7 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **Pokémon LeafGreen Version** (Game Boy Advance) - 113/128 conquistas
 - **~Homebrew~ Masturbrowse SX** (Game Boy Color) - 10/25 conquistas
 - **Dr. Robotnik's Mean Bean Machine** (Genesis/Mega Drive) - 3/34 conquistas
 - **Paper Mario** (Nintendo 64) - 0/87 conquistas
@@ -64,5 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **Grand Theft Auto: Chinatown Wars** (PlayStation Portable) - 0/105 conquistas
 - **Princess Tomato in the Salad Kingdom** (NES/Famicom) - 18/52 conquistas
 - **~Homebrew~ Minesweeper** (Master System) - 9/9 conquistas
-- **~Homebrew~ Desert Bus** (Game Boy) - 0/6 conquistas
 <!--END_SECTION:ra-->
