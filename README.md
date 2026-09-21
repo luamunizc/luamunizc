@@ -55,6 +55,7 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **The Pinball of the Dead** (Game Boy Advance) - 0/44 conquistas
 - **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
 - **Pokémon HeartGold Version | Pokémon SoulSilver Version** (Nintendo DS) - 0/136 conquistas
 - **Pokémon White Version 2** (Nintendo DS) - 5/151 conquistas
@@ -64,5 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **Paper Mario** (Nintendo 64) - 0/87 conquistas
 - **~Homebrew~ 2048** (NES/Famicom) - 11/12 conquistas
 - **~Homebrew~ Cave Story** (PlayStation Portable) - 8/183 conquistas
-- **Tetris** (PlayStation Portable) - 5/36 conquistas
 <!--END_SECTION:ra-->
