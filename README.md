@@ -55,8 +55,8 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
-- **~Hack~ Pokémon PureRGB** (Game Boy) - 13/77 conquistas
 - **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
+- **~Hack~ Pokémon PureRGB** (Game Boy) - 13/77 conquistas
 - **Pokémon Red Version | Pokémon Blue Version [Subset - Glitch Showcase]** (Game Boy) - 1/8 conquistas
 - **~Hack~ Pokémon Professor Oak Challenge** (Game Boy) - 8/8 conquistas
 - **~Homebrew~ Apotris** (Game Boy Advance) - 0/53 conquistas
