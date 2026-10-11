@@ -55,6 +55,9 @@ Universidade Federal de Pernambuco — UFPE
 
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
+- **Pokémon Platinum Version** (Nintendo DS) - 0/101 conquistas
+- **~Hack~ Pokémon Renegade Platinum** (Nintendo DS) - 0/109 conquistas
+- **Pokémon Blue Version [Subset - Professor Oak Challenge]** (Game Boy) - 29/133 conquistas
 - **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
 - **~Hack~ Pokémon PureRGB** (Game Boy) - 13/77 conquistas
 - **Pokémon Red Version | Pokémon Blue Version [Subset - Glitch Showcase]** (Game Boy) - 1/8 conquistas
@@ -62,7 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **~Homebrew~ Apotris** (Game Boy Advance) - 0/53 conquistas
 - **Pokémon HeartGold Version | Pokémon SoulSilver Version** (Nintendo DS) - 0/136 conquistas
 - **The Pinball of the Dead** (Game Boy Advance) - 0/44 conquistas
-- **Pokémon White Version 2** (Nintendo DS) - 5/151 conquistas
-- **Pokémon LeafGreen Version** (Game Boy Advance) - 113/128 conquistas
-- **~Homebrew~ Masturbrowse SX** (Game Boy Color) - 10/25 conquistas
 <!--END_SECTION:ra-->
