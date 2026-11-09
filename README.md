@@ -56,6 +56,7 @@ Universidade Federal de Pernambuco — UFPE
 <!--START_SECTION:ra-->
 ### 🎮 Recentemente jogado no RetroAchievements:
 - **Pokémon Blue Version** (Game Boy) - 78/90 conquistas
+- **Pokémon Emerald Version** (Game Boy Advance) - 76/197 conquistas
 - **Pokémon Blue Version [Subset - Professor Oak Challenge]** (Game Boy) - 29/133 conquistas
 - **Pokémon HeartGold Version | Pokémon SoulSilver Version** (Nintendo DS) - 0/130 conquistas
 - **Wario Land 4** (Game Boy Advance) - 1/66 conquistas
@@ -64,5 +65,4 @@ Universidade Federal de Pernambuco — UFPE
 - **Mario & Wario** (SNES/Super Famicom) - 0/120 conquistas
 - **Pokémon Platinum Version** (Nintendo DS) - 0/101 conquistas
 - **~Hack~ Pokémon Renegade Platinum** (Nintendo DS) - 0/109 conquistas
-- **~Hack~ Pokémon PureRGB** (Game Boy) - 13/77 conquistas
 <!--END_SECTION:ra-->
